@@ -1,7 +1,7 @@
-[Introducció a Java Script](apuntsJS)
+[Introducció a Java Script](apuntsJS.md)
 
-[Estructura d'un projecte Web](estrcuturaProject)
+[Estructura d'un projecte Web](estrcuturaProject.md)
 
-[Manipulació DOM](manipulacioDOM)
+[Manipulació DOM](manipulacioDOM.md)
 
-[Events](events)
+[Events](events.md)
