@@ -1,8 +1,3 @@
----
-title: "Apunts"
-permalink: /apuntsJS/
----
-
 # **JAVASCRIPT BÀSIC** 
 ---
 ### **Introducció a JavaScript**
